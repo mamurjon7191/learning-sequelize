@@ -1,0 +1,24 @@
+{
+  "name": "learning-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamurjon7191/learning-sequelize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamurjon7191/learning-sequelize/issues"
+  },
+  "homepage": "https://github.com/mamurjon7191/learning-sequelize#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "pg": "^8.8.0",
+    "sequelize": "^6.21.4"
+  }
+}
